@@ -1,0 +1,4 @@
+cmake
+man
+vim-plug
+vim-surround
